@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [HAND Enterprise Solutions](https://www.hand-china.com).
+- 📫 How to reach me: [@Colin](https://twitter.com/Colin48493159)
+
 <!--
 **Aestus0/Aestus0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://github-readme-stats.vercel.app/api?username=Aestus0&theme=dark&hide=stars,contribs)
+
