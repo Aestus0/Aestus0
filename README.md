@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [HAND Enterprise Solutions](https://www.hand-china.com).
+- 🔭 I’m currently working on ByteDance.
 - 📫 How to reach me: [@Colin](https://twitter.com/Colin48493159)
 
 <!--
